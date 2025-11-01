@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0; padding: 0; background: #f9f9f9;
+}
+header {
+    background: #243a73; color: white; padding: 1em 0; text-align: center;
+}
+nav a {
+    color: white; margin: 0 15px; text-decoration: none; font-weight: bold;
+}
+section {
+    padding: 2em; text-align: center;
+    background: white; max-width: 700px; margin: 40px auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05)
+}
+footer {
+    background: #243a73; color: white; text-align: center; padding: 1em 0; position: fixed; width: 100%; bottom: 0;
+}
+button {
+    background: #ee6c4d; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 1em; cursor: pointer;
+}
+button:hover { background: #ff914d; }
